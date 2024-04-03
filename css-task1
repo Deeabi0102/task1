@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    /* div {
+        width: 200px;
+        height: 200px;
+        padding: 50px;
+        border: 10px inset red;
+        margin: 10px;
+        background-color: aqua;
+    } */
+    .out{
+        border: 5px solid black;
+        height: 500px;
+        width: 100px;
+        
+
+    }
+    .in{
+        height: 100px;
+        color: white;
+        height: 40px;
+        width: 40px;
+        border: 10px solid orange;
+        padding: 10px;
+        margin: 10px;
+        background-color: red;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+</style>
+
+<body>
+    <!-- <div>
+        deepan
+    </div> -->
+    <div class="out">
+     <div class="in">box</div>
+     <div class="in">box</div>
+     <div class="in">box</div>
+     <div class="in">box</div>
+     <div class="in">box</div>  
+</div>
+</body>
+
+
+</html>
